@@ -1,5 +1,5 @@
 /**
- * @author Dinesh Reddy Thokala, Meghna Mathur
+ * @author Dinesh Reddy Thokala
  * Short Project 3: Priority queues
  * Ver 1.0: 09/19/18
  */
